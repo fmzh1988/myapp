@@ -1,2 +1,7 @@
-# myapp
-myapp
+# ms-js
+
+```
+npm install 
+
+npm run test
+```
